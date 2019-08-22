@@ -24,5 +24,13 @@ namespace tortura_1
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Viagem sla = new Viagem();
+            sla.SetDistancia(double.Parse(x.Text));
+            sla.SetTempo(double.Parse(y.Text));
+            z.Text = sla.CalcVelocidade().ToString();
+        }
     }
 }
