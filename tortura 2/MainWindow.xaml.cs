@@ -28,9 +28,9 @@ namespace tortura_2
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Esfera b = new Esfera();
-            b.SetRaio(double.Parse(x.Text));
-            y.Text = b.CalcArea().ToString();
-            z.Text = b.CalcVolume().ToString();
+            b.SetRaio(double.Parse(z.Text));
+            A.Text = b.CalcArea().ToString();
+            y.Text = b.CalcVolume().ToString();
         }
     }
 }
