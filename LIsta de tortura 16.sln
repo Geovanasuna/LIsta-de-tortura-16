@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tortura 1", "tortura 1\tort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tortura 2", "tortura 2\tortura 2.csproj", "{AE9A6586-CCCA-4726-BAFB-367E8F026775}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tortura3.0", "tortura3.0\tortura3.0.csproj", "{E885275C-3AD4-4A03-B473-EE1F173398F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AE9A6586-CCCA-4726-BAFB-367E8F026775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE9A6586-CCCA-4726-BAFB-367E8F026775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE9A6586-CCCA-4726-BAFB-367E8F026775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E885275C-3AD4-4A03-B473-EE1F173398F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E885275C-3AD4-4A03-B473-EE1F173398F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E885275C-3AD4-4A03-B473-EE1F173398F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E885275C-3AD4-4A03-B473-EE1F173398F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
