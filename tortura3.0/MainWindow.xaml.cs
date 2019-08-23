@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace tortura_2
+namespace tortura3._0
 {
     /// <summary>
     /// Interação lógica para MainWindow.xam
@@ -27,10 +27,11 @@ namespace tortura_2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Esfera b = new Esfera();
-            b.SetRaio(double.Parse(z.Text));
-            A.Text = b.CalcArea().ToString();
-            y.Text = b.CalcVolume().ToString();
+            Retangulo sla = new Retangulo();
+            sla.SetBase(double.Parse(x.Text));
+            sla.SetAltura(double.Parse(y.Text));
+            z.Text = sla.CalcArea().ToString();
+            a.Text = sla.CalcDiagonal().ToString();
         }
     }
 }
