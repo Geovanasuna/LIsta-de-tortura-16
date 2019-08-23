@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tortura3.0", "tortura3.0\tortura3.0.csproj", "{E885275C-3AD4-4A03-B473-EE1F173398F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E885275C-3AD4-4A03-B473-EE1F173398F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E885275C-3AD4-4A03-B473-EE1F173398F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E885275C-3AD4-4A03-B473-EE1F173398F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E885275C-3AD4-4A03-B473-EE1F173398F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7FF887D-BFD3-4EB3-94FB-DB7F0BA1725C}
+	EndGlobalSection
+EndGlobal
