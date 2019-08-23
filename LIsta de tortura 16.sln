@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tortura 1", "tortura 1\tortura 1.csproj", "{0F56DD99-8654-454D-B061-F3AED7029EC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade1", "tortura 1\Atividade1.csproj", "{0F56DD99-8654-454D-B061-F3AED7029EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tortura 2", "tortura 2\tortura 2.csproj", "{AE9A6586-CCCA-4726-BAFB-367E8F026775}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade2", "tortura 2\Atividade2.csproj", "{AE9A6586-CCCA-4726-BAFB-367E8F026775}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satisfação4", "Satisfação4\Satisfação4.csproj", "{663F572F-8424-428C-9BE4-C53D7E0AAD02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade4", "Satisfação4\Atividade4.csproj", "{663F572F-8424-428C-9BE4-C53D7E0AAD02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
